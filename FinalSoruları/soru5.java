@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /*SORU5
-klavyeden rastegele sayılar giriliyor bu sayılar içinde 10 tane asal sayı girildiğinde bu sayıları diziye atan ve dizideki en büyük
+klavyeden rastegele sayılar giriliyor bu sayılar içinden 10 tane asal sayı girildiğinde bu sayıları diziye atan ve dizideki en büyük
 sayıyı ekrana yazan program*/ 
 public class soru5 {
     public static void main(String[] args) {
